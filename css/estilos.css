@@ -122,7 +122,7 @@ footer p {
     "cuatro cinco seis"
     "siete ocho nueve";
 
-    grid-template-rows: repeat(4, 650px);
+    grid-template-rows: repeat(3, 650px);
 }
 
 .section__lugares .caja{
@@ -152,6 +152,17 @@ footer p {
 
 .seis{
     grid-area: seis;
+}
+
+.siete{
+    grid-area: siete;
+}
+.ocho{
+    grid-area: ocho;
+}
+
+.nueve{
+    grid-area: nueve;
 }
 
 .seccion-multimedia{
